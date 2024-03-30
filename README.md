@@ -9,7 +9,7 @@ https://support.apple.com/en-ca/106385
 Note: File is ~585MB!
 
 ### 2. Install Image Catpure Support Apps
-Extract Devices.zip, you will have 3 files
+Extract Devices.zip, you will have 3 apps.
 
 These are apps/plugins that enable the scanner functionality in macOS.
 
@@ -24,3 +24,8 @@ You can verify it works correctly by opening System Information > Printers and l
 
 ### 4. REBOOT
 A reboot is necessary to have the scanner show up in Image Capture.
+
+### 5. Open Image Capture
+Open Image Capture, with your printer/scanner powered on and you should see it in the left under 'Shared Devices'. 
+Select it, and an Overview scan should be automatically performed. 
+
