@@ -6,7 +6,7 @@ Tested using an HP Photosmart 5510d with Scanner capability over AirPrint.
 ### 1. Download the HP 5.1.1 Printer Software Update from Apple
 https://support.apple.com/en-ca/106385
 
-File is ~530MB
+Note: File is ~585MB!
 
 ### 2. Install Image Catpure Support Apps
 Extract Devices.zip, you will have 3 files
