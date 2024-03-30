@@ -1,7 +1,7 @@
 # HPScanner4MacOS
 Restore your HP Scanner functionality on MacOS Big Sur and higher, without relying on HP Smart and other Applications!
 
-Tested using an HP Photosmart 5510d with Scanner capability over AirPrint.
+Tested using an HP Photosmart 5510d with Scanner capability over AirPrint, using Ventura 13.0 and a clean install of Sonoma 14.4.
 
 ### 1. Download the HP 5.1.1 Printer Software Update from Apple
 https://support.apple.com/en-ca/106385
