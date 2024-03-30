@@ -8,10 +8,12 @@ https://support.apple.com/en-ca/106385
 
 File is ~530MB
 
-### 2. Extract Devices.zip 
-These contain support apps that enable the scanner functionality in macOS.
+### 2. Install Image Catpure Support Apps
+Extract Devices.zip, you will have 3 files
 
-Copy HP M1130_M1210 Scanner.app, HP Scanner 3, HPScanner to /Library/Image Capture/Devices
+These are apps/plugins that enable the scanner functionality in macOS.
+
+Copy 'HP M1130_M1210 Scanner.app' , 'HP Scanner 3.app', 'HPScanner.app' to /Library/Image Capture/Devices
 
 ### 3. Install your printer driver
 For a wireless printer, choose the driver from the package and not the auto-detected one).
