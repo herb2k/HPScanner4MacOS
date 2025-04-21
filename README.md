@@ -9,7 +9,7 @@ Tested using an HP Photosmart 5510d with Scanner capability over AirPrint, using
 Note: File is 585MB!
 
 ### 2. Install Image Capture Support Apps
-Extract ```Devices.zip```, you will have 3 apps extracted.
+Extract ```Devices.zip``` from this repo, you will have 3 apps extracted.
 
 These are apps/plugins that enable the scanner functionality in macOS.
 
@@ -37,6 +37,6 @@ Select it, and an Overview scan should be automatically performed.
 
 
 ### 6. macOS Ventura (13) and higher
-If you see a pop up that says "HP Scanner 3" (or similar) is damaged:
+If you see a pop up frim Image Capture that says "HP Scanner 3" (or similar) is damaged:
 
-You may need to double click each of the 'Devices' apps one at a time and click "Open Anyway" under Settings > Privacy.
+You may need to double click each of the 'Devices' apps in `/Library/Image Capture/Devices` one at a time and click "Open Anyway" under Settings > Privacy.
