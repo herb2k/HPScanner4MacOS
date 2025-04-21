@@ -35,3 +35,8 @@ A reboot is necessary to have the scanner show up in Image Capture.
 Open Image Capture, with your printer/scanner powered on and you should see it in the left under 'Shared Devices'. 
 Select it, and an Overview scan should be automatically performed. 
 
+
+### 6. macOS Ventura (13) and higher
+If you see a pop up that says "HP Scanner 3" (or similar) is damaged:
+
+You may need to double click each of the 'Devices' apps one at a time and click "Open Anyway" under Settings > Privacy.
