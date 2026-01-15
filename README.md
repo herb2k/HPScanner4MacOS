@@ -18,6 +18,7 @@ If asked to merge or overwrite, always merge!
 
 You will encounter gatekeeper warnings, and you will need to run a series of ```xattr -d com.apple.quarantine <file_name>``` (the names and locations will be different depending on your printer) will need to be run if 'Open Anyway' under the 'Privacy and Security' Settings Section does not work. 
 
+If you are using an Apple Silicon device, Rosetta needs to be installed (macOS will prompt you to do this)
 
 ### 2. Install Image Capture Support Apps
 Extract ```Devices.zip``` from this repo, you will have 3 apps extracted.
@@ -48,6 +49,6 @@ Select it, and an Overview scan should be automatically performed.
 
 
 ### 6. macOS Ventura (13) and higher
-If you see a pop up frim Image Capture that says "HP Scanner 3" (or similar) is damaged:
+If you see a pop up from Image Capture that says "HP Scanner 3" (or similar) is damaged:
 
 You may need to double click each of the 'Devices' apps in `/Library/Image Capture/Devices` one at a time and click "Open Anyway" under Settings > Privacy.
