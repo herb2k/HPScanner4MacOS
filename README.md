@@ -8,7 +8,7 @@ Tested using an HP Photosmart 5510d with Scanner capability over AirPrint, using
 
 Note: File is 585MB!
 
-### Update: This will not install above macOS 15. 
+### Update: This will not install above macOS 15.0.0 
 
 Please download ```Payload.zip``` from the releases section and copy the contents of the extracted ```Library``` subfolder to their respective locations in ```/Library/Printers``` and ```/Library/Image Capture```.
 
